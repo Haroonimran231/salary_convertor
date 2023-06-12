@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\pages\\salary_calculator.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\pages\\salary_calculator.dart"
+        }
+    ]
+}
